@@ -1,2 +1,1 @@
-# waterfall-jq
-## 用jQuery实现瀑布流布局。A waterfall layout by jQuery.
+# 用jQuery实现瀑布流布局。A waterfall layout by jQuery.
